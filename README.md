@@ -12,9 +12,9 @@ How to write and use Python and SQL for databasing and data analysis in genetics
 
 You can reach me at [samibizzari@outlook.com](mailto:samibizzari@outlook.com)
 
-### ⚡ Fun fact
+### ☕ Fun fact
 
-I am trying to start a cold coffee beverage business as a hobby. 
+I am trying to start a cold coffee beverage business. 
 
 ---
 
