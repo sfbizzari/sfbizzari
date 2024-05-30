@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**sfbizzari/sfbizzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ I’m currently working on
 
-Here are some ideas to get you started:
+Automation flows for checking large amounts of variant data on large repositories such as gnomAD 🗄️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 I’m currently learning
+
+How to write and use Python and SQL for databasing and data analysis in genetics and genomics 🐍.
+
+### 📫 How to reach me
+
+You can reach me at [samibizzari@outlook.com](mailto:samibizzari@outlook.com)
+
+### ⚡ Fun fact
+
+I am trying to start a cold coffee beverage business as a hobby. 
+
+---
+
+Feel free to connect with me or just say hi! 😊.
